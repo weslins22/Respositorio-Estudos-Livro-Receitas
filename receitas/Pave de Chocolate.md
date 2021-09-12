@@ -1,4 +1,4 @@
-# Pavê de Chocolate :chocolate_bar:
+# Pavê de Chocolate 🍫
 
 ## INGREDIENTES
 

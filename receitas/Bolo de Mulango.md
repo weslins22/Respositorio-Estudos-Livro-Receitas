@@ -1,4 +1,4 @@
-# Hummm!! Bolo de Mulango!! :cake:
+# Hummm!! Bolo de Mulango!! 🍰
 
 ## Ingredientes
 
