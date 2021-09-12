@@ -4,7 +4,7 @@
 
 ## **Índice**
 
-- [Strogonoff de Frango](https://github.com/weslins22/Respositorio-Estudos-Livro-Receitas/blob/main/receitas/strogonoff.md) 🐔
+- [Strogonoff de Frango](https://github.com/weslins22/Respositorio-Estudos-Livro-Receitas/blob/main/receitas/Strogonoff.md) 🐔
 
 - [Pavê de Chocolate](https://github.com/weslins22/Respositorio-Estudos-Livro-Receitas/blob/main/receitas/Pave%20de%20Chocolate.md) 🍫
 
